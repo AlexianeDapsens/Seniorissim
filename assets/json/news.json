@@ -1,0 +1,74 @@
+[
+	{
+		"id" : [2],
+        "Title" : "Titre actualité",
+        "Article" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec placerat, ipsum ac auctor ornare...",
+        "Image" : "assets/json/news-1.jpg",
+        "ImageRetina" : "assets/json/news-1@2x.jpg",
+        "ImageCaption" : "Lorem ipsum dolor sit amet, consectetur adipiscing."
+	},
+	{
+		"id" : [2],
+        "Title" : "Titre actualité",
+        "Article" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec placerat, ipsum ac auctor ornare...",
+        "Image" : "assets/json/news-2.jpg",
+        "ImageRetina" : "assets/json/news-2@2x.jpg",
+        "ImageCaption" : "Lorem ipsum dolor sit amet, consectetur adipiscing."
+	},
+	{
+		"id" : [2],
+        "Title" : "Titre actualité",
+        "Article" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec placerat, ipsum ac auctor ornare...",
+        "Image" : "assets/json/news-3.jpg",
+        "ImageRetina" : "assets/json/news-3@2x.jpg",
+        "ImageCaption" : "Lorem ipsum dolor sit amet, consectetur adipiscing."
+	},
+	{
+		"id" : [1],
+        "Title" : "Titre actualité",
+        "Article" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec placerat, ipsum ac auctor ornare...",
+        "Image" : "assets/json/all-1.jpg",
+        "ImageRetina" : "assets/json/all-1@2x.jpg",
+        "ImageCaption" : "Lorem ipsum dolor sit amet, consectetur adipiscing."
+	},
+	{
+		"id" : [1],
+        "Title" : "Titre actualité",
+        "Article" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec placerat, ipsum ac auctor ornare...",
+        "Image" : "assets/json/all-2.jpg",
+        "ImageRetina" : "assets/json/all-2@2x.jpg",
+        "ImageCaption" : "Lorem ipsum dolor sit amet, consectetur adipiscing."
+	},
+	{
+		"id" : [1],
+        "Title" : "Titre actualité",
+        "Article" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec placerat, ipsum ac auctor ornare...",
+        "Image" : "assets/json/all-3.jpg",
+        "ImageRetina" : "assets/json/all-3@2x.jpg",
+        "ImageCaption" : "Lorem ipsum dolor sit amet, consectetur adipiscing."
+	},
+	{
+		"id" : [3],
+        "Title" : "Titre actualité",
+        "Article" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec placerat, ipsum ac auctor ornare...",
+        "Image" : "assets/json/act-1.jpg",
+        "ImageRetina" : "assets/json/act-1@2x.jpg",
+        "ImageCaption" : "Lorem ipsum dolor sit amet, consectetur adipiscing."
+	},
+	{
+		"id" : [3],
+        "Title" : "Titre actualité",
+        "Article" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec placerat, ipsum ac auctor ornare...",
+        "Image" : "assets/json/act-2.jpg",
+        "ImageRetina" : "assets/json/act-2@2x.jpg",
+        "ImageCaption" : "Lorem ipsum dolor sit amet, consectetur adipiscing."
+	},
+	{
+		"id" : [3],
+        "Title" : "Titre actualité",
+        "Article" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec placerat, ipsum ac auctor ornare...",
+        "Image" : "assets/json/act-3.jpg",
+        "ImageRetina" : "assets/json/act-3@2x.jpg",
+        "ImageCaption" : "Lorem ipsum dolor sit amet, consectetur adipiscing."
+	}
+]
